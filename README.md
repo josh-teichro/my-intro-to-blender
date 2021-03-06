@@ -48,3 +48,15 @@ Texturing and UVs - learning to create assets for games.
 
 <img src="06_ModularDungeon/Renders/dungeon_00.png" width="49%"> <img src="06_ModularDungeon/Renders/dungeon_01.png" width="49%"> <img src="06_ModularDungeon/Renders/dungeon_02.png">
 
+
+## Section 7: Furry Heads
+
+Intro to sculpting and hair particle systems. 
+
+**Final Result: Human Head**
+
+<img src="07_FurryHeads/Renders/rdj.png" height="500px">
+
+**Final Result: Animal**
+
+<img src="07_FurryHeads/Renders/doge.png">
